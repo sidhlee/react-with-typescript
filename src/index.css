@@ -1,7 +1,17 @@
+:root {
+  --cl-primary: #50005a;
+  --cl-primary-light: #6a0a77;
+}
+
 html {
   font-family: sans-serif;
 }
 
 body {
   margin: 0;
+}
+
+.App {
+  max-width: 400px;
+  margin: auto;
 }
